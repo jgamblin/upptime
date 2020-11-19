@@ -1,7 +1,7 @@
 - url: https://www.jerrygamblin.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 2194
-- lastUpdated: 2020-11-19T06:47:54.386Z
+- responseTime: 3668
+- lastUpdated: 2020-11-19T06:55:58.585Z
 - startTime: 2020-11-19T02:04:58.494Z
 - generator: Upptime <https://github.com/upptime/upptime>
