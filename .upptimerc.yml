@@ -9,9 +9,9 @@ sites:
   - name: vulnerablecontainers.org
     url: https://vulnerablecontainers.org
   - name: kennaseucurity.com
-    url: https://kennaseucurity.com
+    url: https://www.kennasecurity.com/
   - name: Kenna App
-    url: https://app.kennaseucurity.com
+    url: https://app.kennasecurity.com/
 assignees:
   - jgamblin
 status-website:
