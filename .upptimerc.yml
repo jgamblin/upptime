@@ -8,6 +8,10 @@ sites:
     url: https://www.jerrygamblin.com
   - name: vulnerablecontainers.org
     url: https://vulnerablecontainers.org
+  - name: kennaseucurity.com
+    url: https://kennaseucurity.com
+  - name: Kenna App
+    url: https://app.kennaseucurity.com
 assignees:
   - jgamblin
 status-website:
