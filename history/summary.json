@@ -3,16 +3,16 @@
     "name": "JerryGamblin.com",
     "url": "https://www.jerrygamblin.com",
     "slug": "jerry-gamblin-com",
-    "status": "down",
-    "uptime": "99.97",
-    "time": 1832
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2199
   },
   {
     "name": "vulnerablecontainers.org",
     "url": "https://vulnerablecontainers.org",
     "slug": "vulnerablecontainers-org",
-    "status": "down",
-    "uptime": "99.97",
-    "time": 72
+    "status": "up",
+    "uptime": "100.00",
+    "time": 103
   }
 ]
