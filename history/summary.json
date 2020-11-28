@@ -5,7 +5,7 @@
     "slug": "jerry-gamblin-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2352
+    "time": 2364
   },
   {
     "name": "vulnerablecontainers.org",
@@ -13,22 +13,22 @@
     "slug": "vulnerablecontainers-org",
     "status": "up",
     "uptime": "100.00%",
-    "time": 227
+    "time": 218
   },
   {
     "name": "kennaseucurity.com",
     "url": "https://www.kennasecurity.com/",
     "slug": "kennaseucurity-com",
     "status": "up",
-    "uptime": "99.09%",
-    "time": 2408
+    "uptime": "99.20%",
+    "time": 2206
   },
   {
     "name": "Kenna App",
     "url": "https://app.kennasecurity.com/",
     "slug": "kenna-app",
     "status": "up",
-    "uptime": "99.10%",
-    "time": 289
+    "uptime": "99.20%",
+    "time": 303
   }
 ]
