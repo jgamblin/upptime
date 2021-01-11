@@ -60,19 +60,19 @@
     "url": "https://app.kennasecurity.com/",
     "icon": "https://favicons.githubusercontent.com/app.kennasecurity.com",
     "slug": "kenna-app",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.89%",
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "98.23%",
     "time": 370,
-    "timeDay": 188,
-    "timeWeek": 334,
+    "timeDay": 245,
+    "timeWeek": 337,
     "timeMonth": 369,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-01-11": 0,
+      "2021-01-11": 59,
       "2020-11-19": 97
     }
   }
