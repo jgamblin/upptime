@@ -4,9 +4,9 @@
     "url": "https://www.jerrygamblin.com",
     "icon": "https://favicons.githubusercontent.com/www.jerrygamblin.com",
     "slug": "jerry-gamblin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 3591,
     "timeYear": 2744,
     "dailyMinutesDown": {
+      "2021-07-06": 0,
       "2021-03-10": 18,
       "2021-03-08": 34
     }
